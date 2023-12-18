@@ -10,7 +10,7 @@ Avui en dia, existeixen una gran varietat de plataformes adreçades als blogs co
 
   
 
-![Els nois mitjans socials](https://images.unsplash.com/photo-1520333789090-1afc82db536a?q=80&w=3871&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![(https://images.unsplash.com/photo-1520333789090-1afc82db536a?q=80&w=3871&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
   
 
@@ -89,12 +89,12 @@ Manovich, Lev. (2013). "El software toma el mando", Capítol 4 i 5. Barcelona: E
 
   
 
-[https://www.internetmatters.org/es/hub/news-blogs/what-is-tumblr/](https://www.internetmatters.org/es/hub/news-blogs/what-is-tumblr/)
+InternetMatters. “¿Qué es Tumblr? Lo que los padres deben saber.” Data d'accés: 15 de novembre del 2023. [https://www.internetmatters.org/es/hub/news-blogs/what-is-tumblr/](https://www.internetmatters.org/es/hub/news-blogs/what-is-tumblr/)
 
   
 
-[https://ca.wikipedia.org/wiki/Tumblr](https://ca.wikipedia.org/wiki/Tumblr)
+Wikipedia. “Tumblr.”Data d’accés: 14 de novembre del 2023. [https://ca.wikipedia.org/wiki/Tumblr](https://ca.wikipedia.org/wiki/Tumblr)
 
   
 
-[https://en.wikipedia.org/wiki/Google_Docs](https://en.wikipedia.org/wiki/Google_Docs)
+Wikipedia. “Google Docs.” Data d’accés: 17 de novembre del 2023. [https://en.wikipedia.org/wiki/Google_Docs](https://en.wikipedia.org/wiki/Google_Docs)
