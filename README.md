@@ -24,25 +24,25 @@ Avui en dia, existeixen una gran varietat de plataformes adreçades als blogs co
 
   
 
-### - Què hi podem trobar?
+### Què hi podem trobar?
 
 Degut, la gran demanda de les xarxes socials i la portabilitat, Tumblr va sorgir per oferir als usuaris un espai ràpid i segur per crear contingut de qualitat fent ús d'imatges, vídeos, gifts, cites curtes, missatgeria instantània, transmissions en directe, etc.
 
   
 
-### - A qui va dirigit?
+### A qui va dirigit?
 
 És una aplicatiu dirigit principalment a artistes, dissenyadors, arquitectes, fotògrafs i professionals que es dediquin a les arts digitals. Resumint, permet exposar obres com infografies, pintures, curtmetratges, fotografies, peces de música, etc. D’altra banda, Tumblr mostra la seva diversitat de continguts que no només permet trobar publicacions d’art sinó també de pàgines de moda, de manga, fanfiction, cine, música i moltes més. Al tractar-s’hi d’una plataforma de blogs hi permet crear comunitats amb les qual els usuaris poden interactuar entre sí.
 
   
 
-### - Com es compon Tumblr?
+### Com es compon Tumblr?
 
 El primer que s’hi presenta és el ***dashboard*** que vindria sent l’inici de la plataforma on es troba el contingut principal; l’apartat **Explorar** on apareixen els continguts nous relacionats amb les preferències dels usuaris com imatges, vídeos o blogs, etc. Després, hi és **El tumblr live** que ofereix transmissions en directe de pàgines d’autors que estan disponibles pel seu visionat en temps real. L’apartat **Activitat** que seria la safata de notificacions que mostra mencions, rebloggeig de publicacions i respostes a comentaris, etc). També, existeix un apartat de **Missatges** i  com ben diu la paraula fa referència a tota la correspondència que arriba d’altres usuaris. L’apartat **Compte** on es pot trobar els continguts que s’ha compartit i on es pot editar la imatge envers els altres usuaris. L’apartat **Configuració** que permet ajustar les preferències com: l’idioma, canvi de contrasenya, correu electrònic vinculat i tipus de contingut que es vulguin visualitzar.**El tumblr markt** vindria sent una apartat de compra de “gadgets” vinculat a la mateixa plataforma per gaudir d’una experiència més completa afegint qualitats que no venen en la versió gratuïta. Finalment està l’apartat **Compra un domini** que concedeix els drets de pàgines a Tumblr fent el pagament corresponent.
 
   
 
-### - Tumblr i la hibridació
+### Tumblr i la hibridació
 
 He decidit que un dels casos seleccionats seria Tumblr, perquè ofereix una gran quantitat de serveis sortint de l’antiga mecànica dels blogs antics en els que només es podien observar textos, imatges i potser vídeos. Tumblr fa servir una gran quantitat de recursos i mitjans com la missatgeria; abans únicament trobada als mòbils o les aplicacions especialitzades com WhatsApp, Messenger, etc. Publicació d’imatges com Facebook, Twitter, Instagram. Publicació de vídeos com Youtube o la televisió. Transmissions de “streaming” com Twitch, Dacast, Streamshark i moltes més. Ara transferit tot a una plataforma amb un entorn més digital i complex que genera una experiència d’usuari. Aquí s’estudia el pas cap el desenvolupament d’un aplicatiu nou que ofereix una àmplia gamma de funcionalitats basades en la televisió, la ràdio, els ordinadors, els diaris, etc. Això recorda a les paraules de Manovich que ens diu el següent:
 
