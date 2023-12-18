@@ -117,4 +117,4 @@ Dongee. "Google Docs: Características más relevantes." Data d'accés: 18 de no
 
 ---
 
-Per aquest treball s'ha fet servir imatges de Unsplash.com: <https://unsplash.com/es> amb licència CC BY SA. 
+Per aquest treball s'han fet servir imatges de Unsplash.com: <https://unsplash.com/es> amb llicència CC BY SA. 
