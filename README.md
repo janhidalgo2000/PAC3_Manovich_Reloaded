@@ -10,7 +10,7 @@ Avui en dia, existeixen una gran varietat de plataformes adreçades als blogs co
 
   
 
-![(https://images.unsplash.com/photo-1520333789090-1afc82db536a?q=80&w=3871&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+!(Noia amb telèfon)[(https://images.unsplash.com/photo-1520333789090-1afc82db536a?q=80&w=3871&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
   
 
