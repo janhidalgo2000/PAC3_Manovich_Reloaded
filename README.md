@@ -1,9 +1,9 @@
 # PAC3: Visionant el futur amb les ulleres de Manovich: Redescobrint la hibridació 
 --- 
 
-**Alumne:** Gian Carlos Hidalgo Ramos
+**Alumne:** Gian Carlos Hidalgo Ramos /
 
-**Assignatura:** Cultura Digital
+**Assignatura:** Cultura Digital/
 
 **Professor:** Jaume Villar Martínez 
 
