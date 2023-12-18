@@ -2,7 +2,9 @@
 --- 
 
 **Alumne:** Gian Carlos Hidalgo Ramos
+
 **Assignatura:** Cultura Digital
+
 **Professor:** Jaume Villar Martínez 
 
 ## Introducció
