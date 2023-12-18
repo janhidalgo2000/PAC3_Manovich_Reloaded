@@ -89,12 +89,12 @@ Manovich, Lev. (2013). "El software toma el mando", Capítol 4 i 5. Barcelona: E
 
   
 
-<[https://www.internetmatters.org/es/hub/news-blogs/what-is-tumblr/](https://www.internetmatters.org/es/hub/news-blogs/what-is-tumblr/)>
+[https://www.internetmatters.org/es/hub/news-blogs/what-is-tumblr/](https://www.internetmatters.org/es/hub/news-blogs/what-is-tumblr/)
 
   
 
-<[https://ca.wikipedia.org/wiki/Tumblr](https://ca.wikipedia.org/wiki/Tumblr)>
+[https://ca.wikipedia.org/wiki/Tumblr](https://ca.wikipedia.org/wiki/Tumblr)
 
   
 
-<[https://en.wikipedia.org/wiki/Google_Docs](https://en.wikipedia.org/wiki/Google_Docs)>
+[https://en.wikipedia.org/wiki/Google_Docs](https://en.wikipedia.org/wiki/Google_Docs)
