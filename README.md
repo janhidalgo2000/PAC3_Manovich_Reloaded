@@ -6,6 +6,7 @@
 **Assignatura:** Cultura Digital
 
 **Professor:** Jaume Villar Martínez 
+---
 
 ## Introducció
 
