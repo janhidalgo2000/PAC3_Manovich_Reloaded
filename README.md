@@ -115,4 +115,6 @@ Crecetalam. "Tumblr ¿Qué es y para qué sirve? Data d'accés: 16 de novembre d
 
 Dongee. "Google Docs: Características más relevantes." Data d'accés: 18 de novembre del 2023. <https://www.dongee.com/tutoriales/google-docs-caracteristicas-mas-relevantes/>
 
->Per aquest treball s'ha fet servir imatges de Unsplash.com amb licència CC BY SA. 
+---
+
+Per aquest treball s'ha fet servir imatges de Unsplash.com: <https://unsplash.com/es> amb licència CC BY SA. 
