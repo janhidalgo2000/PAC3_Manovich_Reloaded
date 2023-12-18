@@ -110,4 +110,7 @@ Wikipedia. “Tumblr.”Data d’accés: 14 de novembre del 2023. [https://ca.wi
 Wikipedia. “Google Docs.” Data d’accés: 17 de novembre del 2023. [https://en.wikipedia.org/wiki/Google_Docs](https://en.wikipedia.org/wiki/Google_Docs)
 
 
-Crecetalam. "Tumblr, ¿Qué es y para qué sirve?." Data d'accés: 16 de novembre del 2023. <https://www.crecelatam.com/tumblr-que-es-y-para-que-sirve/>  
+Crecetalam. "Tumblr ¿Qué es y para qué sirve? Data d'accés: 16 de novembre del 2023. <https://www.crecelatam.com/tumblr-que-es-y-para-que-sirve/>  
+
+
+Dongee. "Google Docs: Características más relevantes." Data d'accés: 18 de novembre del 2023. <https://www.dongee.com/tutoriales/google-docs-caracteristicas-mas-relevantes/>
