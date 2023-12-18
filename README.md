@@ -1,4 +1,11 @@
-# Introducció
+# PAC3: Visionant el futur amb les ulleres de Manovich: Redescobrint la hibridació 
+--- 
+
+**Alumne:** Gian Carlos Hidalgo Ramos
+**Assignatura:** Cultura Digital
+**Professor:** Jaume Villar Martínez 
+
+## Introducció
 
 En aquest assaig parlaré sobre la hibridació de mitjans basant-me en la teoria “El software prén el comandament" d’en Lev Manovich. Es farà esment de dos casos actuals de dos aplicacions que són Tumblr i Google Documents, que encaixen molt bé dins la descripció de la hibridació per la seva versatilitat i barreja de mitjans. Per cada cas, s'exposaran les característiques rellevants de cadascun d’ells detallan el motiu de la seva elecció.
 
